@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">A passionate Data analyst from India who has a keen Interest Towards Data Science and Machine Learning</h3>
+<h3 align="center">A passionate Cloud Engineer from India who has a keen Interest Towards Cloud computing and Artificial Intelligence</h3>
 
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
