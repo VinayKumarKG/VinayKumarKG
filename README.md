@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, AWS Cloud**
 
-- 💬 Ask me about **Python, SQL, Power BI**
+- 💬 Ask me about **Python, SQL, Power BI, Microsoft Azure,**
 
 - 📫 How to reach me **vinaykumarkg54@gmail.com**
 
